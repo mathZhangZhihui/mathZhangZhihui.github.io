@@ -1,0 +1,35 @@
+# jemdoc: addcss{jemdoc.css}
+# jemdoc: addcss{myMiddle.css}
+# jemdoc: nofooter
+= Hongduo Liu
+
+~~~
+{}{img_left}{photo.jpg}{150}{150}{Hongduo Liu}
+Hongduo Liu, Ph.D. Student \n
+[http://www.cse.cuhk.edu.hk/ Department of Computer Science and Engineering]\n
+[http://www.cuhk.edu.hk/ The Chinese University of Hong Kong]\n
+Email: liuhongduosc@gmail.com
+~~~
+
+== Biography
+I am currently a Ph.D. student at Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), 
+under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since Fall 2021. 
+Previously, I received my Bachelor's Degree of Engineering from [https://www.uestc.edu.cn/ University of Electronic Science and Technology of China (UESTC)] in 2020.
+
+== Research Interest
+- Hardware/Algorithm Co-Optimization
+- EDA
+
+== Publication
+- \[C1\] Jiahao Liu, Zhen Zhu, Yong Zhou, Ning Wang, Guanghai Dai, Qingsong Liu, Jianbiao Xiao, Yuxiang Xie, Zirui Zhong, *Hongduo Liu*, Liang Chang, Jun Zhou,
+ “BioAIP: A Reconfigurable Biomedical AI Processor with Adaptive Learning for Versatile Intelligent Health Monitoring”, 2021 IEEE International Solid-State Circuits Conference (ISSCC), Feb. 13–22, 2021.
+
+== Experience
+=== SmartMore
+- C\+\+ Engineer
+- Shenzhen, P.R.China, Aug.2020 - Jun.2021\n 
+  
+== Awards
+- Full Postgraduate Studentship, 	CUHK, 	2021-2025
+- Outstanding Graduate, UESTC, 	2020
+- First Class Outstanding Academic Scholarship,  UESTC,     2017, 2018, 2019
